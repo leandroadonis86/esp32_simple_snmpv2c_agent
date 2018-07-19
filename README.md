@@ -30,7 +30,7 @@ Note: May need to install adicional drivers in your system on link https://www.s
 Uncompress components.7z using 7zip or any other alternative.<br>
 Replace all file from genuine framework ESP-IDF 3.0 components path to this components fixed ones.<br>
 Copy snmp agent example to your esp examples folder or home directory.<br>
-Open terminal, go to example path and type command "make menuconfig".<br>
+Open terminal, go to snmp agent example path and type command "make menuconfig".<br>
 Make sure the LwIP "component config" is exact same as the image below and "Serial flash config" is set to your correct device.<br>
 Execute "make flash" to compile into your ESP32.<br>
 Use putty to connect to your ESP32 serial.
