@@ -42,6 +42,7 @@ Nagios, PowerSNMP Free Manager (Windows), SolarWinds SNMPWalk, SNMP MIB Browser 
 $make menuconfig<br>
 Component congig > LwIP<br>
 https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_component.jpg
+<img src="https://raw.githubusercontent.com/leandroadonis86/esp32_simple_snmpv2c_agent/master/lwip_component.jpg">
 
 
 <b>Fixing alternatives</b>:
