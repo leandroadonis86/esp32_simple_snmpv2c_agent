@@ -34,7 +34,7 @@
  * IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
  * OF SUCH DAMAGE.
  *
- * This is an simple example of SNMPv2c Agent w/ private MIB for ESP32.
+ * This is a simple example of SNMPv2c Agent w/ private MIB for ESP32.
  * 
  * Author: Leandro Silva <@gmail.com>
  * Student of Computer Engineering from Polytechnic Institute of Leiria - Portugal
