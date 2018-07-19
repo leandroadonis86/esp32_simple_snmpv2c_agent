@@ -47,7 +47,7 @@ https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_c
 
 <b>Fixing alternatives</b>:
 
-Remove "build" folder from compiled projet if you apply any changes.<br>
+Remove "build" folder from compiled project if you apply any changes.<br>
 Try "make clean" and then "make flash".<br>
 Make sure LwIP options are correct in "make menuconfig".<br>
 Use make -d to debug make falty errors.<br>
