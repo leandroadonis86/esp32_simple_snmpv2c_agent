@@ -39,7 +39,10 @@ Use putty to connect to your ESP32 serial.
 Nagios, PowerSNMP Free Manager (Windows), SolarWinds SNMPWalk, SNMP MIB Browser (Android).
 
 <b>Make menuconfig options:</b>
-https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_component.jpg
+$make menuconfig<br>
+Component congig > LwIP<br>
+<img src="
+https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_component.jpg" />
 
 
 <b>Fixing alternatives</b>:
