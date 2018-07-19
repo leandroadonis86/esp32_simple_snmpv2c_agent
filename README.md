@@ -27,7 +27,7 @@ Note: May need to install adicional drivers in your system on link https://www.s
 
 <b>Install</b>:
 
-Uncompress components.7z using 7zip or anyother alternative.<br>
+Uncompress components.7z using 7zip or any other alternative.<br>
 Replace all file from genuine framework ESP-IDF 3.0 components path to this components fixed ones.<br>
 Copy snmp agent example to your esp examples folder or home directory.<br>
 Open terminal, go to example path and type command "make menuconfig".<br>
