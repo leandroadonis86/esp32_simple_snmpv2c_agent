@@ -45,7 +45,7 @@ https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_c
 <img src="https://raw.githubusercontent.com/leandroadonis86/esp32_simple_snmpv2c_agent/master/lwip_component.jpg">
 
 
-<b>Fixing alternatives</b>:
+<b>Fixing alternatives:</b>
 
 Remove "build" folder from compiled project if you apply any changes.<br>
 Try "make clean" and then "make flash".<br>
@@ -53,6 +53,7 @@ Make sure LwIP options are correct in "make menuconfig".<br>
 Use make -d to debug make falty errors.<br>
 Make sure lwip component.mk is including snmp library. (is already in components.7z)
 
+TAGS: SNMP Agent, SNMPv2c, Private MIB, MIB2, MIB-II, ESP32, ESP-IDF, LwIP, Example, Simple.
 
 
 
