@@ -12,6 +12,7 @@ May work on further ESP-IDF versions since the components are full copy of from 
 This is an simple example of SNMPv2c Agent w/ private MIB for ESP32.
 
 <b>Author</b>: 
+
 Leandro Silva <@gmail.com>
 Student of Computer Engineering from Polytechnic Institute of Leiria - Portugal
 
@@ -39,6 +40,7 @@ Use putty to connect to your ESP32 serial.
 Nagios, PowerSNMP Free Manager (Windows), SolarWinds SNMPWalk, SNMP MIB Browser (Android).
 
 <b>Make menuconfig options:</b>
+
 $make menuconfig<br>
 Component config > LwIP <br>
 https://github.com/leandroadonis86/esp32_simple_snmpv2c_agent/blob/master/lwip_component.jpg
