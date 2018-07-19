@@ -21,7 +21,7 @@ I will be very gratefull and real happy to see my work worth something to you. T
 
 <b>Requirements</b>:
 
-Make sure you ESP32 is full setup by following the tutorial and running an example for test on link https://dl.espressif.com/doc/esp-idf/latest/get-started/index.html
+Make sure ESP32 is full setup by following the tutorial and running an example for test on link https://dl.espressif.com/doc/esp-idf/latest/get-started/index.html
 
 Note: May need to install adicional drivers in your system on link https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 
