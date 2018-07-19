@@ -15,8 +15,8 @@ This is an simple example of SNMPv2c Agent w/ private MIB for ESP32.
 Leandro Silva <@gmail.com>
 Student of Computer Engineering from Polytechnic Institute of Leiria - Portugal
 
-Please be kind and support my work for further release, any donation is apreciated
-at https://www.paypal.me/LeandroAdonis/5 for 5€ or 5$ amount. Any amount you wish,
+Please be kind and support my work for further release, any donation is apreciated<br>
+at https://www.paypal.me/LeandroAdonis/5 for 5€ or 5$ amount. Any amount you wish,<br>
 I will be very gratefull and real happy to see my work worth something to you. Thank you.
 
 <b>Requirements</b>:
@@ -27,27 +27,27 @@ Note: May need to install adicional drivers in your system on link https://www.s
 
 <b>Install</b>:
 
-Uncompress components.7z using 7zip or anyother alternative.
-Replace all file from genuine framework ESP-IDF 3.0 components path to this components fixed ones.
-Copy snmp agent example to your esp examples folder or home directory.
-Open terminal, go to example path and type command "make menuconfig".
-Make sure the LwIP "component config" is exact same as the image below and "Serial flash config" is set to your correct device.
-Execute "make flash" to compile into your ESP32.
+Uncompress components.7z using 7zip or anyother alternative.<br>
+Replace all file from genuine framework ESP-IDF 3.0 components path to this components fixed ones.<br>
+Copy snmp agent example to your esp examples folder or home directory.<br>
+Open terminal, go to example path and type command "make menuconfig".<br>
+Make sure the LwIP "component config" is exact same as the image below and "Serial flash config" is set to your correct device.<br>
+Execute "make flash" to compile into your ESP32.<br>
 Use putty to connect to your ESP32 serial.
 
-For server side tools you can use:
+<b>For server side tools you can use:</b><br>
 Nagios, PowerSNMP Free Manager (Windows), SolarWinds SNMPWalk, SNMP MIB Browser (Android).
 
-Make menuconfig options:
+<b>Make menuconfig options:</b>
 
 
 
 <b>Fixing alternatives</b>:
 
-Remove "build" folder from compiled projet if you apply any changes.
-Try "make clean" and then "make flash".
-Make sure LwIP options are correct in "make menuconfig".
-Use make -d to debug make falty errors.
+Remove "build" folder from compiled projet if you apply any changes.<br>
+Try "make clean" and then "make flash".<br>
+Make sure LwIP options are correct in "make menuconfig".<br>
+Use make -d to debug make falty errors.<br>
 Make sure lwip component.mk is including snmp library. (is already in components.7z)
 
 
