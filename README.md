@@ -59,7 +59,11 @@ Make sure lwip component.mk is including snmp library. (is already in components
 
 TAGS: SNMP Agent, SNMPv2c, Private MIB, MIB2, MIB-II, ESP32, ESP-IDF, LwIP, Example, Simple.
 
+<b>File information:</b>
 
+components.7z: Includes all components from ESP-IDF 3.0 framework with component LwIP fixed files for SNMP.<br>
+components.7z file scan:
+https://www.virustotal.com/#/file/d1d08e381a907ad84ae78d75372f51c6f546f1bc698bc66211c864cbbf898e22/detection
 
 
 
