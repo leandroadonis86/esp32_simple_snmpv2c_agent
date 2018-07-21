@@ -32,6 +32,8 @@ Note: May need to install adicional drivers in your system on link https://www.s
 
 Updated LwIP component available: http://download.savannah.nongnu.org/releases/lwip/
 
+Related document for LwIP: http://www.nongnu.org/lwip/2_0_x/group__snmp.html
+
 <b>Install</b>:
 
 Uncompress components.7z using 7zip or any other alternative.<br>
