@@ -62,7 +62,7 @@ TAGS: SNMP Agent, SNMPv2c, Private MIB, MIB2, MIB-II, ESP32, ESP-IDF, LwIP, Exam
 
 <b>File information:</b>
 
-<b>components.7z</b>: Includes all components from ESP-IDF 3.0 framework with component LwIP fixed files for SNMP.<br>
+<b>components.7z</b>: Ziped Filed that includes all components from ESP-IDF 3.0 framework with component LwIP fixed files for SNMP.<br>
 file scan:
 https://www.virustotal.com/#/file/d1d08e381a907ad84ae78d75372f51c6f546f1bc698bc66211c864cbbf898e22/detection
 
