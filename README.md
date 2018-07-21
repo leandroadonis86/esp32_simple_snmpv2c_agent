@@ -9,7 +9,7 @@ Board: ESP32_Core_board_V2
 Version: Framework ESP-IDF 3.0
 Version: LWIP 2.0.3
 
-May work on further ESP-IDF versions since the components.7z is the full copy of components in ESP-IDF 3.0 with Lwip component fixed, but you should not update to the new version after merge it to your framework.
+May work on further ESP-IDF versions since the components.7z is the full copy of components in ESP-IDF 3.0 with Lwip component fixed, but you should not update to the new version after merge into framework.
 
 This is an simple example of SNMPv2c Agent w/ private MIB for ESP32.
 
