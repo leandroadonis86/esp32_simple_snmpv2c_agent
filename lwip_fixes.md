@@ -1,4 +1,4 @@
-<b>LwIP component briefing changes for ESP32</b>:
+<b>LwIP 2.0.3 component briefing changes for ESP32 ESP-IDF 3.0</b>:
 
 <b>lwipopts.h</b>: added #define LWIP_SNMP 1
 
