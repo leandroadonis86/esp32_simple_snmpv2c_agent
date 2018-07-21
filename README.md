@@ -30,6 +30,8 @@ Make sure ESP32 is full setup by following the tutorial and running an example f
 
 Note: May need to install adicional drivers in your system on link https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 
+Updated LwIP component available: http://download.savannah.nongnu.org/releases/lwip/
+
 <b>Install</b>:
 
 Uncompress components.7z using 7zip or any other alternative.<br>
