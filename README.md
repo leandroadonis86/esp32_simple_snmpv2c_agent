@@ -16,6 +16,8 @@ This is an simple example of SNMPv2c Agent w/ private MIB for ESP32.
 Leandro Silva <@gmail.com>
 Student of Computer Engineering from Polytechnic Institute of Leiria - Portugal
 
+My Espressif contact nickname: leandro.adonis86
+
 Please be kind and support my work for further release, any donation is apreciated<br>
 at https://www.paypal.me/LeandroAdonis/5 for 5€ or 5$ amount. Any amount you wish,<br>
 I will be very gratefull and real happy to see my work worth something to you. Thank you.
