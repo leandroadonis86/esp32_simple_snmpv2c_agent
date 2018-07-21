@@ -15,7 +15,7 @@
 <b>arch.h</b>: Compare and Add speciefied code present in arch.h file from the 
 	component present in  http://download.savannah.nongnu.org/releases/lwip/
 
-<b>ethernetif.c</b>: in fucntion !NETIF_INIT_SNMP()" you see var 
+<b>ethernetif.c</b>: in function "NETIF_INIT_SNMP()" you see var 
 	LINK_SPEED_OF_YOUR_NETIF_IN_BPS change for desire interface speed 100 
 	as an example.
 
