@@ -1,6 +1,8 @@
 # esp32_simple_snmpv2c_agent
 IoT: Simple example using SNMPv2c Agent for ESP32 + LwIP 2.0.3 + ESP-IDF 3.0
 
+Project TAGS: SNMP Agent, SNMPv2c, Private MIB, MIB2, MIB-II, ESP32, ESP-IDF, LwIP, Example, Simple.
+
 <b>Tested on...</b>
 
 Board: ESP32_Core_board_V2
@@ -56,9 +58,6 @@ Try "make clean" and then "make flash".<br>
 Make sure LwIP options are correct in "make menuconfig".<br>
 Use make -d to debug make falty errors.<br>
 Make sure lwip component.mk is including snmp library. (is already in components.7z)
-
-TAGS: SNMP Agent, SNMPv2c, Private MIB, MIB2, MIB-II, ESP32, ESP-IDF, LwIP, Example, Simple.
-
 
 <b>File information:</b>
 
